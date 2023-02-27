@@ -1,0 +1,15 @@
+/Users/di/Desktop/Exampels/exampel001HelouConsol/bin/Debug/net7.0/exampel001HelouConsol
+/Users/di/Desktop/Exampels/exampel001HelouConsol/bin/Debug/net7.0/exampel001HelouConsol.deps.json
+/Users/di/Desktop/Exampels/exampel001HelouConsol/bin/Debug/net7.0/exampel001HelouConsol.runtimeconfig.json
+/Users/di/Desktop/Exampels/exampel001HelouConsol/bin/Debug/net7.0/exampel001HelouConsol.dll
+/Users/di/Desktop/Exampels/exampel001HelouConsol/bin/Debug/net7.0/exampel001HelouConsol.pdb
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.csproj.AssemblyReference.cache
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.AssemblyInfoInputs.cache
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.AssemblyInfo.cs
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.csproj.CoreCompileInputs.cache
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.dll
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/refint/exampel001HelouConsol.dll
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.pdb
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/exampel001HelouConsol.genruntimeconfig.cache
+/Users/di/Desktop/Exampels/exampel001HelouConsol/obj/Debug/net7.0/ref/exampel001HelouConsol.dll
